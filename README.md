@@ -72,4 +72,4 @@ He may once it indeces:
 See do it between.
 
 
-PS: Atleast Seems like english lol! 
+TLDR: Atleast Seems like english lol! 
