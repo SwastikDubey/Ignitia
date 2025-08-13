@@ -1,5 +1,5 @@
 # Ignitia
-Ignitia GPT is a from-scratch generative transformer that sparks powerful language intelligence, showcasing the potential of custom-built AI models.
+Ignitia GPT is a from-scratch generative decoder only transformer that sparks powerful language intelligence, showcasing the potential of custom-built AI models.
 
 ## Input used:- Shakespeare novels text file, consisting of 1 million tokens.
 ## Mininmum loss achieved : tain = *1.08*  validation: *1.51*
