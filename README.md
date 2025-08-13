@@ -5,6 +5,7 @@ Ignitia GPT is a from-scratch generative transformer that sparks powerful langua
 ## Mininmum loss achieved : tain = *1.08*  validation: *1.51*
 
 ### Hyperparams: 
+#### Total Params : 10.8 million
 -  batch_size = 64 # independent sequences we will process in parallel
 -  block_size = 256 # the maximum context length for predictions
 -  max_iters = 5000
